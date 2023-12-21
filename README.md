@@ -17,13 +17,17 @@ Cartographic Design: Employing effective cartographic design principles to ensur
 Interactive Elements: Developing interactive maps to enhance user engagement and exploration of the study area.
 
 ### Examples of the Study Are Maps
+### 1. Abuja Study Area Map
 ![Abuja Study Area Map](Study_Area_Maps/f_studyarea.jpg)<br />
 
+### 2. Geologic Map of Nigeria
 ![Geologic Map of Nigeria](Study_Area_Maps/geologic_map.jpg)<br />
 
-![Map of Bida](Study_Area_Maps/bida_1.jpg)<br />
+### 3. Map of Bida
+![Map of Bida](Study_Area_Maps/bida_1.jpeg)<br />
 
-![Map of Lapai Showing Change in Yield](Study_Area_Maps/lapai_yield.jpg)<br />
+### 4. Map of Lapai Showing Change in Yield
+![Map of Lapai Showing Change in Yield](Study_Area_Maps/lapai_yield.jpeg)<br />
 
 
 
@@ -34,14 +38,14 @@ The "Conflict Health Geoanalysis of Borno State" project delves into the interse
 ### Key Features
 Spatial Analysis: Conducting spatial analysis to identify patterns and correlations between conflict zones and health facility distribution.
 
-### Accessibility Mapping: Creating maps that visualize the accessibility of health facilities in conflict-affected areas, highlighting gaps and potential areas for improvement.
+Accessibility Mapping: Creating maps that visualize the accessibility of health facilities in conflict-affected areas, highlighting gaps and potential areas for improvement.
 
-### Impact Assessment: Assessing the impact of conflict on public health infrastructure and identifying strategies to enhance healthcare services in challenging environments.
+Impact Assessment: Assessing the impact of conflict on public health infrastructure and identifying strategies to enhance healthcare services in challenging environments.
 
-### Data-driven Insights: Utilizing data-driven insights to inform policy recommendations and interventions for improving healthcare delivery in conflict zones.
+Data-driven Insights: Utilizing data-driven insights to inform policy recommendations and interventions for improving healthcare delivery in conflict zones.
 
 ### How to Explore
-You can explore this project by viewing the report[Borno_Health_Conflict/Borno_Report.md] written for stakeholders containing the analysis and visualizations done. The project page provides a comprehensive overview, visualizations, and key insights gained through GIS analysis.
+You can explore this project by viewing the report ![Borno Health Conflict GeoAnalysis Report](Borno_Health_Conflict/Borno_Report.md) written for stakeholders containing the analysis and visualizations done. The project page provides a comprehensive overview, visualizations, and key insights gained through GIS analysis.
 
 
 
