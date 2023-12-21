@@ -44,7 +44,6 @@ The "Conflict Health Geoanalysis of Borno State" project delves into the interse
 
 - **Data-driven Insights:** Utilizing data-driven insights to inform policy recommendations and interventions for improving healthcare delivery in conflict zones.
 
-
 ### Project Overview
 - **Objective:** To enhance healthcare access by understanding the distribution of facilities in high-risk areas and assessing the risk profile of different population groups.
 - **Datasets:** Integrated conflict data, health facilities locations, population density information, and administrative boundaries.
