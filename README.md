@@ -7,14 +7,7 @@ Welcome to my GIS portfolio! This repository showcases my proficiency in Geograp
 Overview
 The "Study Area Maps" project focuses on creating detailed and informative maps for specific study areas. These maps serve various purposes, including visualizing geographical features, analyzing land use patterns, and providing essential context for research and decision-making. The Maps were created using ArcGis and Qgis
 
-Key Features
-Thematic Layers: Incorporating thematic layers to highlight specific features relevant to the study, such as topography, infrastructure, and environmental factors.
 
-Data Integration: Integrating diverse datasets to create comprehensive maps that offer a holistic view of the study area.
-
-Cartographic Design: Employing effective cartographic design principles to ensure clarity, readability, and visual appeal.
-
-Interactive Elements: Developing interactive maps to enhance user engagement and exploration of the study area.
 
 ### Examples of the Study Are Maps
 ### 1. Abuja Study Area Map
