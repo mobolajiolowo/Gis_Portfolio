@@ -9,7 +9,7 @@ The "Study Area Maps" project focuses on creating detailed and informative maps 
 
 
 
-### Examples of the Study Are Maps
+### Examples of the Study Area Maps
 ### 1. Abuja Study Area Map
 ![Abuja Study Area Map](Study_Area_Maps/f_studyarea.jpg)<br />
 
